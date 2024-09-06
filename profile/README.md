@@ -1,6 +1,6 @@
 # Tab Technology
 
-Empowering merchants, consumers, and banks through Smart Commerce.
+We build the receipt rails that power Smart Receipts inside banking, accounting, and expense management applications.
 
 
 Tab Technology AB
